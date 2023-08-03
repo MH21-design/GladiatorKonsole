@@ -1,0 +1,5 @@
+/Users/marius/Library/CloudStorage/OneDrive-ComCaveCollegeGmbH/Material/Prozedurale und Objektorientierte Programmierung/Imed Ghauari/Eigene Dateien/GladiatorKonsole/Gladiator/obj/Debug/net7.0/Gladiator.csproj.AssemblyReference.cache
+/Users/marius/Library/CloudStorage/OneDrive-ComCaveCollegeGmbH/Material/Prozedurale und Objektorientierte Programmierung/Imed Ghauari/Eigene Dateien/GladiatorKonsole/Gladiator/obj/Debug/net7.0/Gladiator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marius/Library/CloudStorage/OneDrive-ComCaveCollegeGmbH/Material/Prozedurale und Objektorientierte Programmierung/Imed Ghauari/Eigene Dateien/GladiatorKonsole/Gladiator/obj/Debug/net7.0/Gladiator.AssemblyInfoInputs.cache
+/Users/marius/Library/CloudStorage/OneDrive-ComCaveCollegeGmbH/Material/Prozedurale und Objektorientierte Programmierung/Imed Ghauari/Eigene Dateien/GladiatorKonsole/Gladiator/obj/Debug/net7.0/Gladiator.AssemblyInfo.cs
+/Users/marius/Library/CloudStorage/OneDrive-ComCaveCollegeGmbH/Material/Prozedurale und Objektorientierte Programmierung/Imed Ghauari/Eigene Dateien/GladiatorKonsole/Gladiator/obj/Debug/net7.0/Gladiator.csproj.CoreCompileInputs.cache
